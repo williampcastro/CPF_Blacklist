@@ -1,0 +1,11 @@
+SOME TESTS THAT YOU CAN DO
+
+1- try to input a cpf with some words 
+
+2- try to serch any cpf that isn't exists
+
+3- try to add some cpf that already exists
+
+4- try to add some cpf withou information
+
+5- delete all the files about status and try to see them
